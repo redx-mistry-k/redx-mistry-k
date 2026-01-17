@@ -31,7 +31,7 @@ I learn by building real projects and improving them through iteration, not by c
 ---
 
 ## 📌 Featured Projects
-- Knowledge Loss Prevention App – Internal tool built with Power Apps and SharePoint  
+- Knowledge Loss Prevention App – Internal tool built with wepage cloudflare d1 and worker
 - Automation workflows for data movement, validation, and archiving  
 - Data analysis projects using Python and Pandas  
 
